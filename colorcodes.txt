@@ -1,0 +1,56 @@
+Low White
+1644825
+Med White
+8355711
+High White
+16777215
+Low Red
+1638400
+Med Red
+8323072
+High Red
+16711680
+Low Blue
+25
+Med Blue
+127
+High Blue
+255
+Low White
+1644825
+Med White
+8355711
+High White
+16777215
+Low Red
+1638400
+Med Red
+8323072
+High Red
+16711680
+Low Blue
+25
+Med Blue
+127
+High Blue
+255
+
+
+  Serial.println("Low White");
+  Serial.println(lowWhite); 
+  Serial.println("Med White");
+  Serial.println(medWhite);
+  Serial.println("High White");
+  Serial.println(highWhite); 
+  Serial.println("Low Red");
+  Serial.println(lowRed);  
+  Serial.println("Med Red");
+  Serial.println(medRed); 
+  Serial.println("High Red");
+  Serial.println(highRed);
+  Serial.println("Low Blue");
+  Serial.println(lowBlue); 
+  Serial.println("Med Blue");
+  Serial.println(medBlue);
+  Serial.println("High Blue");
+  Serial.println(highBlue);
